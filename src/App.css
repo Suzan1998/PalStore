@@ -1,0 +1,65 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #D02809;
+    margin:0px auto;
+    color: floralwhite;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    height: 180px;
+    background: #D02809 ;
+    color:floralwhite;
+    margin-top: -20px;
+    padding-top: 30px;
+}
+
+address{
+    font-size:15px;
+    margin:0px;
+    color:floralwhite;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
+.nav-link{
+    color: aliceblue;
+}
+.fa{
+    margin:5px;
+}
+.fa-bars{
+ color: aliceblue;
+}
+.btn-social-icon{
+    width:45px;
+    height: 45px;
+    margin:3px
+}
+.contactAddress{
+    color: black;
+}
+.navbar-items{
+    background-color: black;
+    width: 2500px;
+    height: 93px;
+    flex-direction: row;
+   justify-content: center;
+}
+
+.icon-logo{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+}
